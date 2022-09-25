@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filleepa
-- 👀 I’m interested in data analysis and exploring answers to issues in the healthcare industry with the power of data!
-- 🌱 I’m currently learning SQL, R, and Python!
+- 👀 I’m interested in UI/UX design!
+- 🌱 I’m currently attempting to learn HTML and Javascript, but occassionally I'll try to dabble in Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
