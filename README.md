@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @filleepa
-- 👀 I’m interested in UI/UX design!
-- 🌱 I’m currently attempting to learn HTML and Javascript, but occassionally I'll try to dabble in Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data analysis and data science!
+- 🌱 I’m currently focusing on Python, but I want to branch out to Javascript (+HTML and CSS) once I'm more comfortable with Python.
 
 <!---
 filleepa/filleepa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
