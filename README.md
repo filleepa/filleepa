@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @filleepa
-- 👀 I’m interested in data analysis and data science!
+- 👀 I’m interested in data analysis and data science, as well as some UX/UI. 
 - 🌱 I’m currently focusing on Python, but I want to branch out to Javascript (+HTML and CSS) once I'm more comfortable with Python.
 
 <!---
